@@ -60,7 +60,4 @@ distribution in a changing world](https://github.com/MaxCarabus/Karaganda_SDM_20
 
 **Valeria Adamova** [Modeling potential ranges of non-indigenous species: land snails as a case study](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/24_Adamova_snails_modelling.pdf)
 
-
-
-
-[programme of the school](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/Programme_soilSchool2025-08-18_24.pdf)
+[Programme of the School](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/Programme_soilSchool2025-08-18_24.pdf)
