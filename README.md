@@ -2,7 +2,7 @@
 ### 18-24 августа 2025 года
 ### Караганда, Казахстан
 
-#### 18 августа
+### 18 августа
 **Elena Rozenkova** [Introduction to SDM](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/01_Razenkova_Lecture1_Intro_to_SDM_2025-08-18.pdf)
 
 **Helen R.P. Phillips** Understanding the distribution of, and impacts to, earthworm communities across the globe
@@ -16,7 +16,7 @@ distribution in a changing world](https://github.com/MaxCarabus/Karaganda_SDM_20
 
 **Maxim Shashkov** [Earthworms of the European part of Russia: literature heritage and citizen science for modelling](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/06_Shashkov_Earthworms_European_Russia_2025-08-18.pdf)
 
-#### 19 августа
+### 19 августа
 **Natalya Ivanova** [Global Biodiversity Information Facility: outside and inside](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/07_Ivanova_GBIF_2025-08-19.pdf)
 
 **Natalya Ivanova** [iNaturalist](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/08_Ivanova_iNaturalistSoilMod_2025-08-19.pdf)
