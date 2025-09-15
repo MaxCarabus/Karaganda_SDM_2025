@@ -1,8 +1,8 @@
-## IX Полевая Школа по почвенной зоологии и экологии для молодых учёных
-### 18-24 августа 2025 года
-### Караганда, Казахстан
+## IX Field School on Soil Zoology and Ecology for Young Scientists
+### August, 18-24, 2025
+### Karaganda, Kazakhstan
 
-### 18 августа
+### August 18
 **Elena Rozenkova** [Introduction to SDM](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/01_Razenkova_Lecture1_Intro_to_SDM_2025-08-18.pdf)
 
 **Helen R.P. Phillips** Understanding the distribution of, and impacts to, earthworm communities across the globe
@@ -16,10 +16,10 @@ distribution in a changing world](https://github.com/MaxCarabus/Karaganda_SDM_20
 
 **Maxim Shashkov** [Earthworms of the European part of Russia: literature heritage and citizen science for modelling](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/06_Shashkov_Earthworms_European_Russia_2025-08-18.pdf)
 
-### 19 августа
+### August 19
 **Natalya Ivanova** [Global Biodiversity Information Facility: outside and inside](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/07_Ivanova_GBIF_2025-08-19.pdf)
 
-**Natalya Ivanova** [iNaturalist](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/08_Ivanova_iNaturalistSoilMod_2025-08-19.pdf)
+**Natalya Ivanova** [iNaturalist](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/08_Ivanova_iNaturalist_2025-08-19.pdf)
 
 **Andrey Zaitsev** [Edaphobase](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/09_Zaytsev_Edaphobase_2025-08-19.pdf)
 
@@ -29,3 +29,21 @@ distribution in a changing world](https://github.com/MaxCarabus/Karaganda_SDM_20
 
 **Lubomir Penev** [Data papers](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/12_Penev_Data_papers_2025-08-19.pdf)
 
+### August 20
+**Maxim Shashkov** [Predictor layers: climate, biotopes and soil]()
+
+**Elena Razenkova** [Main modelling algorithms]()
+
+**Andrey Zaitsev** [Modelling earthworm ecological-category distribution reveals their habitat, land-use and environmental preferences]()
+
+**Andrey Zuev** [Stable isotope mapping of invertebrate habitats]()
+
+### August 21
+**Elena Razenkova** [Model evaluation]()
+
+**Natalya Ivanova** [Projects in iNaturalist]()
+
+### August 22
+**Konstantin Gongalsky** [Academic Writing]()
+
+**Elena Razenkova** [How to write scientific publication]()
