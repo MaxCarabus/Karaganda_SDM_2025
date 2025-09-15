@@ -25,7 +25,7 @@ distribution in a changing world](https://github.com/MaxCarabus/Karaganda_SDM_20
 
 **Artëm Sozontov** [Literature data digitisation](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/10_Sozontov_Lit_data_2025-08-19.pdf)
 
-**Evgeniya Plakkhina** [Citizen Science projects](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/11_Plakkhina_webOfData_2025-08-19.pdfC)
+**Evgeniya Plakkhina** [Citizen Science projects](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/11_Plakkhina_webOfData_2025-08-19.pdf)
 
 **Lubomir Penev** [Data papers](https://github.com/MaxCarabus/Karaganda_SDM_2025/blob/main/12_Penev_Data_papers_2025-08-19.pdf)
 
